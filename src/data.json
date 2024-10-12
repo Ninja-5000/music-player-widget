@@ -1,75 +1,75 @@
 {
   "songs": [
     {
-      "bg": "#c9bea28f",
-      "artist": "sickick",
-      "songName": "talking to the moon (bruno mars remix)",
+      "bg": "#2e2e2e",
+      "artist": "the neighbourhood",
+      "songName": "softcore",
       "files": {
-        "song": "./assets/media/songs/1/song.mp3",
-        "cover": "./assets/media/songs/1/img.jpg"
+        "song": "./assets/media/songs/1/softcore.mp3",
+        "cover": "./assets/media/songs/1/softcore_cover.jpg"
       }
     },
     {
-      "bg": "#0896eba1",
-      "artist": "bless you",
-      "songName": "driving",
+      "bg": "#8c7b75",
+      "artist": "the neighbourhood",
+      "songName": "sweater weather",
       "files": {
-        "song": "./assets/media/songs/2/song.mp3",
-        "cover": "./assets/media/songs/2/img.jpg"
+        "song": "./assets/media/songs/2/sweater_weather.mp3",
+        "cover": "./assets/media/songs/2/sweater_weather_cover.jpg"
       }
     },
     {
-      "bg": "#ebbe03",
-      "artist": "lil uzi vert",
-      "songName": "demon high",
+      "bg": "#4db6ac",
+      "artist": "vance joy",
+      "songName": "riptide",
       "files": {
-        "song": "./assets/media/songs/3/song.mp3",
-        "cover": "./assets/media/songs/3/img.jpg"
+        "song": "./assets/media/songs/3/riptide.mp3",
+        "cover": "./assets/media/songs/3/riptide_cover.jpg"
       }
     },
     {
-      "bg": "#ffc382",
-      "artist": "travis scott",
-      "songName": "a man",
+      "bg": "#d2a679",
+      "artist": "carmelo canavan",
+      "songName": "whispers of october",
       "files": {
-        "song": "./assets/media/songs/4/song.mp3",
-        "cover": "./assets/media/songs/4/img.jpg"
+        "song": "./assets/media/songs/4/whispers_of_october.mp3",
+        "cover": "./assets/media/songs/4/wispers_of_october_cover.jpeg"
       }
     },
     {
-      "bg": "#ffcbdc",
-      "artist": "randall",
-      "songName": "waharan",
+      "bg": "#ffd180",
+      "artist": "carmelo canavan",
+      "songName": "my c.a.p. girl",
       "files": {
-        "song": "./assets/media/songs/5/song.mp3",
-        "cover": "./assets/media/songs/5/img.jpg"
+        "song": "./assets/media/songs/5/my_cap_girl.mp3",
+        "cover": "./assets/media/songs/5/my_cap_girl_cover.jpeg"
       }
     },
     {
-      "bg": "#44c16fb5",
-      "artist": "tritonal",
-      "songName": "diamonds (feat. rose darling)",
+      "bg": "#e85d75",
+      "artist": "girl in red",
+      "songName": "we fell in love in october",
       "files": {
-        "song": "./assets/media/songs/6/song.mp3",
-        "cover": "./assets/media/songs/6/img.jpg"
+        "song": "./assets/media/songs/6/we_fell_in_love_in_october.mp3",
+        "cover": "./assets/media/songs/6/we_fell_in_love_in_october_cover.jpg"
       }
     },
     {
-      "bg": "#ff4545",
-      "artist": "the weeknd",
-      "songName": "blinding lights",
+      "bg": "#ff9e9e",
+      "artist": "troye sivan",
+      "songName": "strawberries & cigarettes",
       "files": {
-        "song": "./assets/media/songs/7/song.mp3",
-        "cover": "./assets/media/songs/7/img.jpg"
+        "song": "./assets/media/songs/7/strawberries_and_cigarettes.mp3",
+        "cover": "./assets/media/songs/7/strawberries_and_cigarettes_cover.jpg"
       }
     },
     {
-      "bg": "#e5e7e9",
-      "artist": "arizona zervas",
-      "songName": "no i in team",
+      "bg": "#b19cd9",
+      "artist": "conan gray",
+      "songName": "memories",
       "files": {
-        "song": "./assets/media/songs/8/song.mp3",
-        "cover": "./assets/media/songs/8/img.jpg"
+        "song": "./assets/media/songs/8/memories.mp3",
+        "cover": "./assets/media/songs/8/memories_cover.jpg"
       }
     }
   ]
