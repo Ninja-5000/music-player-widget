@@ -5,8 +5,8 @@
       "artist": "the neighbourhood",
       "songName": "softcore",
       "files": {
-        "song": "./assets/media/songs/1/song.mp3",
-        "cover": "./assets/media/songs/1/img.jpg"
+        "song": "https://raw.githubusercontent.com/Ninja-5000/music-player-widget/5272d9ad59cc357ad53984022b136927b2689063/src/assets/media/songs/1/song.mp3",
+        "cover": "https://raw.githubusercontent.com/Ninja-5000/music-player-widget/5272d9ad59cc357ad53984022b136927b2689063/src/assets/media/songs/1/img.jpg"
       }
     },
     {
@@ -14,8 +14,8 @@
       "artist": "the neighbourhood",
       "songName": "sweater weather",
       "files": {
-        "song": "./assets/media/songs/2/song.mp3",
-        "cover": "./assets/media/songs/2/img.jpg"
+        "song": "https://raw.githubusercontent.com/Ninja-5000/music-player-widget/5272d9ad59cc357ad53984022b136927b2689063/src/assets/media/songs/2/song.mp3",
+        "cover": "https://raw.githubusercontent.com/Ninja-5000/music-player-widget/5272d9ad59cc357ad53984022b136927b2689063/src/assets/media/songs/2/img.jpg"
       }
     },
     {
@@ -23,8 +23,8 @@
       "artist": "vance joy",
       "songName": "riptide",
       "files": {
-        "song": "./assets/media/songs/3/song.mp3",
-        "cover": "./assets/media/songs/3/img.jpg"
+        "song": "https://raw.githubusercontent.com/Ninja-5000/music-player-widget/5272d9ad59cc357ad53984022b136927b2689063/src/assets/media/songs/3/song.mp3",
+        "cover": "https://raw.githubusercontent.com/Ninja-5000/music-player-widget/5272d9ad59cc357ad53984022b136927b2689063/src/assets/media/songs/3/img.jpg"
       }
     },
     {
@@ -32,8 +32,8 @@
       "artist": "carmelo canavan",
       "songName": "whispers of october",
       "files": {
-        "song": "./assets/media/songs/4/song.mp3",
-        "cover": "./assets/media/songs/4/img.jpeg"
+        "song": "https://raw.githubusercontent.com/Ninja-5000/music-player-widget/5272d9ad59cc357ad53984022b136927b2689063/src/assets/media/songs/4/song.mp3",
+        "cover": "https://raw.githubusercontent.com/Ninja-5000/music-player-widget/5272d9ad59cc357ad53984022b136927b2689063/src/assets/media/songs/4/img.jpeg"
       }
     },
     {
@@ -41,8 +41,8 @@
       "artist": "carmelo canavan",
       "songName": "my c.a.p. girl",
       "files": {
-        "song": "./assets/media/songs/5/song.mp3",
-        "cover": "./assets/media/songs/5/img.jpeg"
+        "song": "https://raw.githubusercontent.com/Ninja-5000/music-player-widget/5272d9ad59cc357ad53984022b136927b2689063/src/assets/media/songs/5/song.mp3",
+        "cover": "https://raw.githubusercontent.com/Ninja-5000/music-player-widget/5272d9ad59cc357ad53984022b136927b2689063/src/assets/media/songs/5/img.jpeg"
       }
     },
     {
@@ -50,8 +50,8 @@
       "artist": "girl in red",
       "songName": "we fell in love in october",
       "files": {
-        "song": "./assets/media/songs/6/song.mp3",
-        "cover": "./assets/media/songs/6/img.jpg"
+        "song": "https://raw.githubusercontent.com/Ninja-5000/music-player-widget/5272d9ad59cc357ad53984022b136927b2689063/src/assets/media/songs/6/song.mp3",
+        "cover": "https://raw.githubusercontent.com/Ninja-5000/music-player-widget/5272d9ad59cc357ad53984022b136927b2689063/src/assets/media/songs/6/img.jpg"
       }
     },
     {
@@ -59,8 +59,8 @@
       "artist": "troye sivan",
       "songName": "strawberries & cigarettes",
       "files": {
-        "song": "./assets/media/songs/7/song.mp3",
-        "cover": "./assets/media/songs/7/img.jpg"
+        "song": "https://raw.githubusercontent.com/Ninja-5000/music-player-widget/5272d9ad59cc357ad53984022b136927b2689063/src/assets/media/songs/7/song.mp3",
+        "cover": "https://raw.githubusercontent.com/Ninja-5000/music-player-widget/5272d9ad59cc357ad53984022b136927b2689063/src/assets/media/songs/7/img.jpg"
       }
     },
     {
@@ -68,8 +68,8 @@
       "artist": "conan gray",
       "songName": "memories",
       "files": {
-        "song": "./assets/media/songs/8/song.mp3",
-        "cover": "./assets/media/songs/8/img.jpg"
+        "song": "https://raw.githubusercontent.com/Ninja-5000/music-player-widget/5272d9ad59cc357ad53984022b136927b2689063/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/Ninja-5000/music-player-widget/5272d9ad59cc357ad53984022b136927b2689063/src/assets/media/songs/8/img.jpg"
       }
     }
   ]
